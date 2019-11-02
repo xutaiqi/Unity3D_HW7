@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F8B59E0B-BBA3-EE07-7D44-A287AF8B2F13}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameObjects/Prop/Prop.cs">
+    <Files>
+      <File FileName="Assets/Script/SceneControllers/FirstSceneController.cs" Line="140" Column="19" />
+      <File FileName="Assets/Script/ActionController/BasicActionCroller/CCMoveToAction.cs" Line="17" Column="30" />
+      <File FileName="Assets/Script/GameObjects/Prop/Prop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ActionController/BasicActionCroller/CCTracertAction.cs" Line="21" Column="6" />
+      <File FileName="Assets/Script/ActionController/BasicActionCroller/SSActionManager.cs" Line="37" Column="1" />
+      <File FileName="Assets/Script/Collide/PlayerCollide.cs" Line="14" Column="56" />
+      <File FileName="Assets/Script/Collide/AreaCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GUI/InterfaceGUI.cs" Line="34" Column="53" />
+      <File FileName="Assets/Script/ActionController/CCActionManager.cs" Line="42" Column="5" />
+      <File FileName="Assets/Script/GameObjects/Prop/PropFactory.cs" Line="33" Column="29" />
+      <File FileName="Assets/Script/GameEventManager.cs" Line="27" Column="6" />
+      <File FileName="Assets/Script/Interface.cs" Line="9" Column="1" />
+      <File FileName="Assets/Script/Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SSDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ActionController/BasicActionCroller/SSAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Collide/CollectCollide.cs" Line="18" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
